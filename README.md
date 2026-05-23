@@ -4,7 +4,7 @@
   <img src="assets/sapientropic-hero.png" alt="Sapientropic" width="900">
 </p>
 
-<h3>Building local-first agent infrastructure for memory, continuity, and everyday automation.</h3>
+<h3>Building local-first agent infrastructure for memory, continuity, and signal work.</h3>
 
 <p>
   I design tools that help agents and humans keep context, recover threads,
@@ -23,7 +23,7 @@
   /
   <a href="#featured-systems"><strong>Agent Skills</strong></a>
   /
-  <a href="https://github.com/Sapientropic/tg-channel-scanner"><strong>Telegram Scanner</strong></a>
+  <a href="https://github.com/Sapientropic/t-sense-open-core"><strong>T-Sense</strong></a>
   /
   <a href="https://github.com/Sapientropic/codeksei"><strong>Codeksei</strong></a>
 </p>
@@ -43,8 +43,8 @@
       Workflows for recalling useful context, resuming long-running threads, and leaving durable state across tools.
     </td>
     <td width="33%">
-      <strong>Signal extraction tools</strong><br>
-      Practical scanners and report generators that turn noisy channels into LLM-ready summaries and decisions.
+      <strong>Signal workflows</strong><br>
+      Local scanners and report generators that turn noisy feeds into reviewable briefs and decisions.
     </td>
   </tr>
 </table>
@@ -59,9 +59,9 @@
       <code>companion agents</code> / <code>local-first</code> / <code>automation</code>
     </td>
     <td width="50%">
-      <a href="https://github.com/Sapientropic/tg-channel-scanner"><strong>tg-channel-scanner</strong></a><br>
-      Scan Telegram channels, filter signals with Markdown profiles, and generate LLM-ready reports.<br>
-      <code>signal extraction</code> / <code>reports</code> / <code>LLM workflows</code>
+      <a href="https://github.com/Sapientropic/t-sense-open-core"><strong>T-Sense open core</strong></a><br>
+      Local-first Telegram signal workflow for scanning accessible channels, filtering with Markdown profiles, and producing reviewable reports.<br>
+      <code>open core</code> / <code>signal workflows</code> / <code>local reports</code>
     </td>
   </tr>
   <tr>
@@ -89,5 +89,5 @@ I care about tools that reduce context loss, especially for long-running project
 ## Links
 
 - [Codeksei](https://github.com/Sapientropic/codeksei)
-- [Telegram channel scanner](https://github.com/Sapientropic/tg-channel-scanner)
+- [T-Sense open core](https://github.com/Sapientropic/t-sense-open-core)
 - [Public repositories](https://github.com/Sapientropic?tab=repositories)
